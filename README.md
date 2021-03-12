@@ -4,6 +4,13 @@
 - 👯 I'm seeking a remote senior Front-end engineer role.
 - 📫 tangweikun123@gmail.com
 
-[![WeiKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangweikun&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+### SKILLS
 
+- React, Redux
+- Typescript
+- Webpack
+- Design Pattern
+- Algorithm 
+
+[![WeiKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangweikun&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
