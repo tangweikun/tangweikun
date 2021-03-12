@@ -1,6 +1,8 @@
-### Hi there, I'm Tang WeiKun 👋
+### Hi there, I'm WeiKun 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangweikun&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm WeiKun Tang, a Front-end engineer from China.
+
+[![WeiKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangweikun&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on TODO:
 - 🌱 I’m currently learning TODO:
