@@ -8,6 +8,7 @@
 
 - React, Redux
 - Typescript
+- Front-end architecture
 - Webpack
 - Design Pattern
 - Algorithm 
