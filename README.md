@@ -15,3 +15,4 @@
 
 [![WeiKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangweikun&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tangweikun/61c88ddd-1431-4ca0-a608-478838a5e32e.png" /></a>
