@@ -13,6 +13,9 @@
 - Design Pattern
 - Algorithm 
 
-[![WeiKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangweikun&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tangweikun&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
+<img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangweikun&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
+</p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tangweikun/61c88ddd-1431-4ca0-a608-478838a5e32e.png" /></a>
+<img width="702px" height="526px" src="https://wakatime.com/share/@tangweikun/58ad411d-dc6d-4f9b-8c2a-592b0113b26f.svg" /></a>
