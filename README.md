@@ -7,7 +7,6 @@
 ### SKILLS
 
 - Front-end architecture
-- Webpack
 - Design Pattern
 - Algorithm 
 
@@ -16,6 +15,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-666666?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-666666?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node-666666?style=flat&logo=node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-666666?style=flat&logo=webpack)
+![Redux](https://img.shields.io/badge/-Redux-666666?style=flat&logo=redux)
+![Sass](https://img.shields.io/badge/-Sass-666666?style=flat&logo=sass)
 
 
 <p>
