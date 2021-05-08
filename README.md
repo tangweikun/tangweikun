@@ -27,3 +27,5 @@
 
 <img width="702px" height="526px" src="https://wakatime.com/share/@tangweikun/58ad411d-dc6d-4f9b-8c2a-592b0113b26f.svg" /></a>
 
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:tangweikun123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/tangweikun123@gmail.com-blue?style=flat-square&logo=gmail"></a>
