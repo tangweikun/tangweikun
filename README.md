@@ -4,12 +4,6 @@
 - 👯 I'm seeking a remote senior Front-end engineer role.
 - 📫 tangweikun123@gmail.com
 
-### SKILLS
-
-- Front-end architecture
-- Design Pattern
-- Algorithm
-
 ### 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-666666?style=flat&logo=react)
