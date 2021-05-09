@@ -18,7 +18,3 @@
 <img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tangweikun&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
 <img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangweikun&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<a href="mailto:tangweikun123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/tangweikun123@gmail.com-blue?style=flat-square&logo=gmail"></a>
