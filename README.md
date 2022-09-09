@@ -1,7 +1,6 @@
 ### Hi there, I'm WeiKun Tang 👋![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=tangweikun.tangweikun&color=00cf00)
 
 - 🌱 I'm working at NetEase as a Front-end engineer.
-- 👯 I'm seeking a remote senior Front-end engineer role.
 - 📫 tangweikun123@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
