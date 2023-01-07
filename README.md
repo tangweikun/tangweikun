@@ -1,4 +1,4 @@
-### Hi there, I'm WeiKun Tang 👋![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=tangweikun.tangweikun&color=00cf00)
+### Hi there, I'm WeiKun Tang 👋
 
 - 🌱 I'm working at NetEase as a Front-end engineer.
 - 📫 tangweikun123@gmail.com
