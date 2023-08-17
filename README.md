@@ -14,7 +14,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-666666?style=flat&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-666666?style=flat&logo=tailwindcss)
 
-<p>
-<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tangweikun&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
-<img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangweikun&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
-</p>
+[![Tangweikun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tangweikun&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<img width="500px" height="260px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tangweikun&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
+
+
